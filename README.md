@@ -66,5 +66,5 @@ Este projeto foi feito como prática do curso de Power BI na Alura.
 Todos os dados são fictícios e foram criados para fins educacionais.
 
 
-## 🗂️ Estrutura do Repositório
+
 
